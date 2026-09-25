@@ -94,7 +94,7 @@ pip install google-generativeai
 Create `backend/.env`:
 
 ```
-GEMINI_API_KEY=AIzaSy...your_key_here
+GEMINI_API_KEY=
 ```
 
 Get free key: https://aistudio.google.com/app/apikey
