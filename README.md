@@ -1,4 +1,3 @@
-# RAG-AI-AGENT
 # RAG AI AGENT — PDF Intelligence with Gemini + FAISS
 
 > Upload any PDF and chat with it. Retrieval-Augmented Generation (RAG) powered by **Gemini 2.0 Flash**, **FAISS**, and **Sentence Transformers**.
